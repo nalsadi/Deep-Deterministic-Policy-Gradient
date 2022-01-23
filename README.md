@@ -4,5 +4,5 @@
 -- Continuous control with deep reinforcement learning (Lillicrap et al.)
 
 ## Extra Resources
-https://jmichaux.github.io/week4b/
-https://medium.com/intro-to-artificial-intelligence/deep-deterministic-policy-gradient-ddpg-an-off-policy-reinforcement-learning-algorithm-38ca8698131b
+- https://jmichaux.github.io/week4b/
+- https://medium.com/intro-to-artificial-intelligence/deep-deterministic-policy-gradient-ddpg-an-off-policy-reinforcement-learning-algorithm-38ca8698131b
